@@ -1,1 +1,2 @@
 # FIRST-PROJECT
+Hello there, my name is Jemuel V. Piedad, a fresh graduate student from the Polytechnic University of the Philippines - Parañaque Campus, creating my first web-project that I independently developed. 
